@@ -36,7 +36,7 @@ li {
 h1 {
   font-size: 4rem;
   text-align: center;
-  text-shadow: 2px 2px 10px black;
+  text-shadow: 2px 2px 10px green;
 }
 
 h2 {
@@ -63,7 +63,7 @@ header {
 }
 
 body>* {
-  background-color: red;
+  background-color: lime;
   padding: 1%;
 }
 
